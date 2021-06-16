@@ -28,7 +28,7 @@
 ### As previously stated, the average goal in the data set is much less than the goal that Louise has set for herself.  The Plays analyzed may not be representative of her locale and the timeframe may be impacting the results.
 ### The data set is a bit skewed because the average goal is less than $4,000 and not within the $12,000 that Louise has set for herself.  The reason the average goal is so low is that 83% of the campaigns are less than or equal to $5,000.  In reviewing campaigns between $10,000 and $15,000, the data would suggest a different timeframe for successful donations.  The chart below would suggest that the third quarter of the year would be a more successful time to start a funding campaign for two reasons:
 ### 1. There are the highest number of successful campaigns at 22
-### 2. The average goal is $245,000 and 77% higher than the next most successful quarter.  
+### 2. The average goal is $11,000, which is in line with the goal she has set.  
 
 ![](Resources/inhergoalrange1.png)
 
