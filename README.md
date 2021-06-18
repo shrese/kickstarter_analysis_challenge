@@ -7,7 +7,7 @@
 ### The purposes of this analysis is to assist Louise in understanding when she should start her campaign and whether or not her goal of $12,000 will be attainable.
 
 ## Analysis and Challenges
-### The analysis for Louise's funding project looked at various data points across several countries, campaign goals and in which month the campaign was launched.  We wanted to see if there were any predictors to the success of funding campaigns for Plays.
+### The analysis for Louise's funding project looked at various data points across several countries, campaign goals and the month in which the campaign was launched.  We wanted to see if there were any predictors to the success of funding campaigns for Plays.
 ### There are some challenges with the data.
 ### 1. Many of the campaigns for Plays are less that $5,001.  This skews the analysis so that it is difficult to predict whether or not she will be able to raise the $12,000 goal she has set for herself.  
 ### 2. The analysis looks at Plays from across the world and some campaigns may be more successful depending on the country.  
