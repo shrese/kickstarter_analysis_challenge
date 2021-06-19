@@ -10,7 +10,7 @@
 ### The analysis for this project looked at various data points across several countries, campaign goals and months in which campaigns were launched.  We wanted to see if there were any predictors to the success of funding campaigns for Plays.
 ### There are some challenges with the data.
 ### 1. Many of the campaigns for Plays are $5,000 or less.  This skews the analysis so that it is difficult to predict whether or not she will be able to raise the $12,000 goal she has set for herself.  
-### 2. The analysis looks at Plays from across the world and the leven of success of a campaigns may vary depending on the country.  
+### 2. The analysis looks at Plays from across the world and the level of success of a campaigns may vary depending on the country.  
 ### 3. The data also includes campaigns across several years.  As the popularity of these type of fundraisers grow, more recent years may be a better predictor of success.
 ### 4. This analysis does not take into consideration a comparison of goal and timing as contributing factors.  
 
