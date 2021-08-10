@@ -32,6 +32,14 @@
 
 ![](Resources/inhergoalrange1.png)
 
+### In this lesson we learned:
+•	Import data into a table for analysis.
+•	Apply filters, conditional formatting, and formulas.
+•	Generate and interpret pivot tables.
+•	Calculate summary statistics such as measures of central tendency, standard deviation, and variance.
+•	Characterize data to identify outliers in data sets.
+
+
 ### There is also a flaw in this data because the data set is small.  It might not be large enough to make an informed decision.  Additional analysis around removing the above-mentioned challenges might be worth the effort.  The issue here is that the data set, again, would be too small to be meaningful. 
 
 ## Results
